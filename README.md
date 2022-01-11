@@ -14,8 +14,8 @@ Always looking for <b>better</b> solutions and <b>new</b> challenges.
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 BackEnd - Node, Java, C#
-<p> 🔸 FrontEnd - React.js, Vue.js, Angular
+<br>🔸 Backend - Node, Java, C#
+<p> 🔸 Frontend - React.js, Vue.js, Angular
 <br>🔸 Cloud - AWS, Serverless
 <br>🔸 BlockChain - Web3, Dapp, NFT Marketplace 
 <p>
