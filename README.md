@@ -8,9 +8,9 @@
 
 ## 🧑 About me:
 <p>
-Self-motivated, ambitious expert with rich experience and solid work skills.
+<b>Self-motivated</b>, <b>ambitious</b> expert with rich experience and solid work skills.
 <br>
-Always looking for <b>better</b> solutions and <b>new</b> challenges.
+Always looking for better solutions and new challenges.
 </p>
 
 <h2>🥇 Specialised in:</h2>
