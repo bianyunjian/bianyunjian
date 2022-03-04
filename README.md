@@ -1,23 +1,22 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">   
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Hey there, let's build things!
 </h2>
 
-<h4 align='center'>
-  FullStack Engineer
-</h4>
 
 ## 🧑 About me:
+ 
 <p>
-<b>Self-motivated</b>, <b>ambitious</b> expert with rich experience and solid work skills.
+Self-motivated, ambitious expert with rich experience and solid work skills.
 <br>
 Always looking for better solutions and new challenges.
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 Backend - Node, Java, C#
+<br>🔸 Backend - NodeJS, Java, C#
 <p> 🔸 Frontend - React.js, Vue.js, Angular
 <br>🔸 Cloud - AWS, Serverless
-<br>🔸 BlockChain - Web3, Dapp, NFT Marketplace 
+<br>🔸 BlockChain - Web3, Substrate, Dapp, RMRK NFT 
+<br>🔸 Soft Skill - Project Management, Team lead, DevOps
 <p>
   
 <!--
