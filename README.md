@@ -6,7 +6,9 @@
 ## 🧑 About me:
  
 <p>
-Self-motivated, ambitious expert with rich experience and solid work skills.
+Self-motivated, strong curiosity.
+<br>
+ambitious expert with rich experience and solid work skills.
 <br>
 Always looking for better solutions and new challenges.
 </p>
