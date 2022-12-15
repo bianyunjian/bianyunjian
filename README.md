@@ -2,7 +2,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Hey there, let's build things!
 </h2>
 
-[![bianyunjian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bianyunjian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![bianyunjian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bianyunjian&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧑 About me:
  
