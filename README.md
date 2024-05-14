@@ -1,5 +1,5 @@
 <h2 align="center">
-     Buildl for future
+     Buidl for future
 </h2>
 
  
